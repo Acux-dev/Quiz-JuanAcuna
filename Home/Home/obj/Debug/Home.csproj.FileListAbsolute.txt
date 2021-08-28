@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\bin\Debug\Home.exe.config
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\bin\Debug\Home.exe
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\bin\Debug\Home.pdb
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\obj\Debug\Home.Form1.resources
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\obj\Debug\Home.exe
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\obj\Debug\Home.pdb
+C:\Users\Usuario\Desktop\Universidad, Ingenieria de Sancochos\semestre 2\Paradigmas de programacion\Home\Home\obj\Debug\Home.report.resources
